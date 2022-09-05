@@ -1,4 +1,4 @@
-###Cara Mengetahui Bahwa Video atau Image Sudah Direkayasa
+### Cara Mengetahui Bahwa Video atau Image Sudah Direkayasa
 ---
 >Seperti foto, video dapat diedit dengan berbagai tingkat kehalusan. Video yang dimanipulasi lebih sulit dideteksi daripada foto yang dimanipulasi, tetapi ada beberapa alat online yang dapat digunakan untuk membantu mendeteksi suntingan itu, yang menjadi semakin umum.
 Salah satunya adalah Photoshopped and edited photos.
